@@ -1,0 +1,35 @@
+#transaction-area{
+    display: none; 
+    text-align: center;
+    padding: 40px;
+
+}
+.hi-tin{
+    color: red;
+}
+.hii-tin{
+    color: salmon;
+}
+#login{
+    background-color: purple;
+    transition: 1s;
+}
+#login:hover{
+    background-color: rgb(173, 51, 173);
+    color: rgb(6, 255, 114);
+}
+.orange{
+    color: orangered;
+    font-size: 50px;
+
+}
+.hot-pink{
+    color: hotpink;
+}
+.pink{
+    color: purple;
+}
+.sliding-area{
+    width: 80%;
+    margin: 0 auto;
+}
